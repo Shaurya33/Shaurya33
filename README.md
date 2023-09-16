@@ -1,6 +1,6 @@
 <h1 align="center">Hello EveryOne, I'm <a href="">Shaurya Mehrotra</a> &nbsp; </h1>
 
-<h3 align="center">An Ai/ML Enthusiast.</h3>
+<h3 align="center">An AI/ML Enthusiast.</h3>
 <hr/>
 
 <div>
