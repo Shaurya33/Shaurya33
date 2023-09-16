@@ -1,11 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hello EveryOne, I'm <a href="">Shaurya Mehrotra</a> &nbsp; </h1>
 
-<!--
-**Shaurya33/Shaurya33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">An Ai/ML Enthusiast.</h3>
+<hr/>
 
-![image](https://github.com/Shaurya33/Shaurya33/assets/90864579/452b9f98-427e-43ed-8288-c96e08dd107d)
+<div>
+  <p align="center">
+  Hey there, I'm Shaurya, I'm a student at SRMIST pursuing Computer Science & Engineering. I am a Passionate AI&ML Developer. I am dedicated to continuously learning and keeping up with the latest trends and technologies in Ai&Ml field.
+  </p>
+</div>
+<hr/>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRpN3pzMWZ6YXhnbm0xN212bGUzc2IwenI2MDEybXk1b2x4Yzh6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" src="https://jnnce.ac.in/jnndemo/aiml.gif" align="right" alt="Coding"/>
+
 
 - 👨‍💻 All of my projects are available at [My-Portfolio]([https://rithik-tiwari.github.io/dev_portfolio](https://shaurya33.github.io/portfolio-responsive-complete/))
 
@@ -15,14 +21,20 @@
 
 -  🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaurya33&theme=dark" alt="Shaurya33" /></p>
+
+<hr/>
+
+<table align="center">
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaurya33&show_icons=true&locale=en&layout=compact&title_color=97f9d8&icon_color=97f9d8&text_color=D3D3D3&bg_color=0,000000,0000ff" alt="Shaurya33" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaurya33&show_icons=true&locale=en&title_color=97f9d8&icon_color=97f9d8&text_color=D3D3D3&bg_color=0,000000,0000ff" alt="Shaurya33" />
+    </td>
+  </tr>
+</table>
