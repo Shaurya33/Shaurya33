@@ -5,7 +5,7 @@
 
 <div>
   <p align="center">
-  Hey there, I'm Shaurya, I'm a student at SRMIST pursuing Computer Science & Engineering. I am a Passionate AI&ML Developer. I am dedicated to continuously learning and keeping up with the latest trends and technologies in Ai&Ml field.
+  Hey there, I'm Shaurya, I'm a Third Year student at SRMIST pursuing Computer Science & Engineering. I am a Passionate AI&ML Developer. I am dedicated to continuously learning and keeping up with the latest trends and technologies in AI&Ml field.
   </p>
 </div>
 <hr/>
