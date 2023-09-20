@@ -15,9 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [My-Portfolio]([https://rithik-tiwari.github.io/dev_portfolio](https://shaurya33.github.io/portfolio-responsive-complete/))
 
-- 📫 How to reach me [CodeGYAN@Mail.box](mailto:shauryamehrotra3@gmail.com)
+- 📫 How to reach me [mailto:shauryamehrotra3@gmail.com]
 
-- 📄 Know about my experiences [My-Resume]([https://drive.google.com/file/d/1UoqvQbpUkUMX8vv6oK_hxwy0EeGT-NYI/view](https://drive.google.com/file/d/1aqo8-BgOTXn_hQJ-zjne9lTdCQKN0E64/view?usp=drivesdk ))
+- 📄 Know about my experiences [My-Resume]([https://drive.google.com/file/d/1UoqvQbpUkUMX8vv6oK_hxwy0EeGT-NYI/view](https://drive.google.com/file/d/1aqo8-BgOTXn_hQJ-zjne9lTdCQKN0E64/view?usp=drivesdk )
 
 -  🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
