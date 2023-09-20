@@ -13,7 +13,7 @@
 <img align="right" src="https://jnnce.ac.in/jnndemo/aiml.gif" align="right" alt="Coding"/>
 
 
-- 👨‍💻 All of my projects are available at [My-Portfolio]([https://rithik-tiwari.github.io/dev_portfolio](https://shaurya33.github.io/portfolio-responsive-complete/))
+- 👨‍💻 My Portfolio [https://shaurya33.github.io/portfolio-responsive-complete/]
 
 - 📫 How to reach me [shauryamehrotra3@gmail.com]
 
