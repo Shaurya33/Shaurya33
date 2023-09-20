@@ -17,7 +17,7 @@
 
 - 📫 How to reach me [shauryamehrotra3@gmail.com]
 
-- 📄 Know about my experiences [My-Resume]([https://drive.google.com/file/d/1UoqvQbpUkUMX8vv6oK_hxwy0EeGT-NYI/view]([https://drive.google.com/file/d/1aqo8-BgOTXn_hQJ-zjne9lTdCQKN0E64/view?usp=drivesdk])
+- 📄 Know about my experiences [My-Resume][https://drive.google.com/file/d/1aqo8-BgOTXn_hQJ-zjne9lTdCQKN0E64/view?usp=drivesdk]
 
 -  🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
